@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="EMS_DH_Prj">
+        <wb-resource deploy-path="/" source-path="/apps/EMS_DH/common"/>
+        <wb-resource deploy-path="/" source-path="/apps/EMS_DH/android"/>
+        <property name="context-root" value="EMS_DH_Prj"/>
+    </wb-module>
+</project-modules>
